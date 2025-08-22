@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <!-- App Colors -->
+    <color name="colorPrimary">#ffe00b0d</color>
+    <color name="colorPrimaryDark">#ff9e1010</color>
+
+
+    <!-- Line colors -->
+    <color name="green">#3ba100</color>
+    <color name="yellow">#ffca04</color>
+    <color name="voilet">#2F0A2C</color>
+
+</resources>
